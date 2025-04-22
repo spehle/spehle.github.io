@@ -4,5 +4,5 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 ## ⚔️ Rollenspiele / Roleplayinggames / TTRPG
 
-[AideDD](https://www.aidedd.org/en/) - Eien französische Seite (mit englischer Übersetzung) mit D&D Charaktergenerator und Zaubern, Feats, etc.
-[Fake Name Generator](https://de.fakenamegenerator.com/) - Ein umfangreicher Fake-Name-Generator für realistische Namen und Adressen, in verschiedenen Ländern
+* [AideDD](https://www.aidedd.org/en/) - Eien französische Seite (mit englischer Übersetzung) mit D&D Charaktergenerator und Zaubern, Feats, etc.
+* [Fake Name Generator](https://de.fakenamegenerator.com/) - Ein umfangreicher Fake-Name-Generator für realistische Namen und Adressen, in verschiedenen Ländern
