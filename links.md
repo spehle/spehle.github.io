@@ -6,3 +6,5 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 * [AideDD](https://www.aidedd.org/en/) - Eine französische Seite (mit englischer Übersetzung) mit D&D Charaktergenerator und Zaubern, Feats, etc.
 * [Fake Name Generator](https://de.fakenamegenerator.com/) - Ein umfangreicher Fake-Name-Generator für realistische Namen und Adressen, in verschiedenen Ländern
+* [Wikipedia Shadowrun-Romane](https://de.wikipedia.org/wiki/Liste_der_Shadowrun-Romane) - Liste der Shadowrun-Romane, inkl. deutscher Titel
+* [DrivethruRPG](https://www.drivethrurpg.com/) - Grosser Shop für digitale Rollenspiel-Angebote
