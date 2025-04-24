@@ -10,6 +10,7 @@ If you want to contact me, please use one of the contact details below. Your bes
 - [GitHub](https://github.com/spehle)
 - [Rollenspielwerkzeuge](https://www.rollenspielwerkzeuge.de)
 - [Instagram](https://www.instagram.com/snowcrash1977/)
+- [Goodreads](goodreads.com/snowcrash77)
 - [LinkedIn](https://www.linkedin.com/in/sacha-dominguez-rodriguez-85538b132)
 
 ## 📬 Contact
