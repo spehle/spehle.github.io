@@ -6,7 +6,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 * [AideDD](https://www.aidedd.org/en/) - Eine französische Seite (mit englischer Übersetzung) mit D&D Charaktergenerator und Zaubern, Feats, etc.
 * [Fake Name Generator](https://de.fakenamegenerator.com/) - Ein umfangreicher Fake-Name-Generator für realistische Namen und Adressen, in verschiedenen Ländern
-* [https://rpgenerator.net/](Ein weiterer Name-Generator, für Shadowrun und Das schwarze Auge)
+* [RPGenerator](https://rpgenerator.net) - Ein weiterer Name-Generator, für Shadowrun und Das schwarze Auge
 * [Wikipedia Shadowrun-Romane](https://de.wikipedia.org/wiki/Liste_der_Shadowrun-Romane) - Liste der Shadowrun-Romane, inkl. deutscher Titel
 * [DrivethruRPG](https://www.drivethrurpg.com/) - Grosser Shop für digitale Rollenspiel-Angebote
 * [HeroForge](https://www.heroforge.com/) - Bei HeroForge kann man 3D-Modelle für Rollenspiele nach eigenen Vorstellungen erstellen
