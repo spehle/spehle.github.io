@@ -10,6 +10,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Wikipedia Shadowrun-Romane](https://de.wikipedia.org/wiki/Liste_der_Shadowrun-Romane) - Liste der Shadowrun-Romane, inkl. deutscher Titel
 * [DrivethruRPG](https://www.drivethrurpg.com/) - Grosser Shop für digitale Rollenspiel-Angebote
 * [HeroForge](https://www.heroforge.com/) - Bei HeroForge kann man 3D-Modelle für Rollenspiele nach eigenen Vorstellungen erstellen
+* [Abenteuerschmiede Foundry VTT](https://foundry.rasppnp.com) - Hier wird Shadowrun 6 gespielt
 
 ## 🤖 Webcomics
 
