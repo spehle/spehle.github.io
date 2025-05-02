@@ -5,6 +5,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 ## ⚔️ Rollenspiele / Roleplayinggames / TTRPG
 
 * [AideDD](https://www.aidedd.org/en/) - Eine französische Seite (mit englischer Übersetzung) mit D&D Charaktergenerator und Zaubern, Feats, etc.
+* [Dungeons and Dragons 5th Edition 2024 Character Builder](https://birddie721.github.io/5e2024Builder/) Ein weiterer Character Builder für D&D 2024. Nur für Level 1 Charaktere, keine Zauberauswahl oder Feats. Sehr rudimentär.
 * [Fake Name Generator](https://de.fakenamegenerator.com/) - Ein umfangreicher Fake-Name-Generator für realistische Namen und Adressen, in verschiedenen Ländern
 * [RPGenerator](https://rpgenerator.net) - Ein weiterer Name-Generator, für Shadowrun und Das schwarze Auge
 * [Wikipedia Shadowrun-Romane](https://de.wikipedia.org/wiki/Liste_der_Shadowrun-Romane) - Liste der Shadowrun-Romane, inkl. deutscher Titel
