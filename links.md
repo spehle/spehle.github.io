@@ -16,6 +16,9 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Abenteuerschmiede Foundry VTT](https://foundry.rasppnp.com) - Hier wird Shadowrun 6 gespielt
 * [Inkarnate](https://inkarnate.com/) - Create Fantasy Maps Online
 * [World Anvil](https://www.worldanvil.com) - World Anvil
+* [Ravenloft Novels](https://www.fictiondb.com/series/ravenloft~13475.htm) - Eine Liste der Ravenloft-Romane in chronologischer Reihenfolge
+* [Chummer 5a](https://github.com/chummer5a/chummer5a) - Chummer 5a, ein Charaktergernerator für Shadowrun 5
+* [Quellenzeitstrahl Shadowrun](https://shadowhelix.de/Meta:Quellenzeitstrahl#2010er) - Eine chronologische Auflistung der deutschen und englischen Shadowrun-Publikationen
 
 
 ## 🤖 Webcomics
@@ -34,3 +37,13 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 ## 🧱 Klemmbausteine
 
 * [Your World of Building Blocks](https://yourwobb.com/) - Your World of Building Blocks
+
+## 👾 Retrocomputing
+
+## 👨🏼‍🍳 Kochen
+
+## 💾 IT
+
+## 🧑🏼‍💻 Entwicklung
+
+## 🍎🍐 Verschiedenes
