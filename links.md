@@ -19,6 +19,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Ravenloft Novels](https://www.fictiondb.com/series/ravenloft~13475.htm) - Eine Liste der Ravenloft-Romane in chronologischer Reihenfolge
 * [Chummer 5a](https://github.com/chummer5a/chummer5a) - Chummer 5a, ein Charaktergernerator für Shadowrun 5
 * [Quellenzeitstrahl Shadowrun](https://shadowhelix.de/Meta:Quellenzeitstrahl#2010er) - Eine chronologische Auflistung der deutschen und englischen Shadowrun-Publikationen
+* [Dungeon Master Assistance](https://olddungeonmaster.com/) - Hilfreiche Sachen für den Dungeon Master, unter anderem ausfüllbare Spellcard-Templates
 
 
 ## 🤖 Webcomics
