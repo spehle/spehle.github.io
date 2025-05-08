@@ -20,12 +20,16 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Chummer 5a](https://github.com/chummer5a/chummer5a) - Chummer 5a, ein Charaktergernerator für Shadowrun 5
 * [Quellenzeitstrahl Shadowrun](https://shadowhelix.de/Meta:Quellenzeitstrahl#2010er) - Eine chronologische Auflistung der deutschen und englischen Shadowrun-Publikationen
 * [Dungeon Master Assistance](https://olddungeonmaster.com/) - Hilfreiche Sachen für den Dungeon Master, unter anderem ausfüllbare Spellcard-Templates
+* [Monad//MAP](https://monad-map.fatman.dev/) - Cyberpunk-Style Karten aus OpenMap-Daten erzeugen
+* [100 Strange But Usefull Magic Items](http://www.sahuntbooks.com/blog/d100-wondrous-magic-items-for-dd-5e) - 100 Seltsame aber durchaus sinnvolle magische Gegenstände für D&D 5e
 
-
-## 🤖 Webcomics
+## 🤖 Webcomics, Manga & Anime
 
 * [Questionable Content](https://www.questionablecontent.net) - Ein Webcomic über eine Gruppe von Menschen in einer alternativen Zeitlinie mit antropomorphen Robotern und künstlicher Intelligenz
 * [Amy, Headshot & a Cat](https://www.shadowrun-webcomic.ch/) - Ein Shadowrun-Webcomic
+* [Proxer](https://proxer.me) - Eine Webseite über Anime und Manga
+* [ZONE-SAMA's Movies](https://zone-sama.newgrounds.com/movies/) - Ecchi & Hentai
+* [Nana to Kaoru Recommendations](https://www.anime-planet.com/manga/nana-to-kaoru/recommendations) - Eine Liste von Mangas die dem Manga "Nana & Kaoru" ähneln.
 
 ## 🧶 Stricken & Häkeln
 
