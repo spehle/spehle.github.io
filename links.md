@@ -41,6 +41,13 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 ## 👾 Retrocomputing
 
+* [Forum64](https://www.forum64.de) - Ein Forum zum C64 und C128
+* [64'er](https://www.64er-magazin.de/index.html) - Digitale, gescannte Ausgaben des 64'er Magazins
+* [Protovision](https://www.protovision.games) - Ein Hersteller von Spielen für den 64'er
+* [V128 Github](https://github.com/V128Team/) - Github des V128, einem 128er Fork des Vice-Emulators, und geplant neuer Hardware
+* [Restore-Store](https://restore-store.de) - Hardware-Store für Retro-Computer
+* [r/ROMs Megathread](https://r-roms.github.io/) - Wissenssammlung für das ROMs-Subreddit
+
 ## 👨🏼‍🍳 Kochen
 
 ## 💾 IT
