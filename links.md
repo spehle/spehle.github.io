@@ -22,6 +22,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Dungeon Master Assistance](https://olddungeonmaster.com/) - Hilfreiche Sachen für den Dungeon Master, unter anderem ausfüllbare Spellcard-Templates
 * [Monad//MAP](https://monad-map.fatman.dev/) - Cyberpunk-Style Karten aus OpenMap-Daten erzeugen
 * [100 Strange But Usefull Magic Items](http://www.sahuntbooks.com/blog/d100-wondrous-magic-items-for-dd-5e) - 100 Seltsame aber durchaus sinnvolle magische Gegenstände für D&D 5e
+* [RPGVanWinkle Etsy-Shop](https://www.etsy.com/shop/rpgvanwinkle) - RPGVanWinkle Etsy-Sop für TTRPG Downloads
 
 ## 🎴 Kartenspiele
 
@@ -59,6 +60,11 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Add Kodi to RetroPie Menu](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/) - Englischer Artikel wie man Kodi zu einem RetroPie Menü hinzufügt
 * [Wikieintrag Cue-Sheet](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/] - Eintrag im Emulationwiki zu CueSheets die für manche Spiele z.B. auf der PS1 benötigt werden
 
+## 🚀 Computer- & Konsolenspiele
+
+* [Zelda Dungeon](https://www.zeldadungeon.net/) - Umfangreiche Webseite zu allen Zelda-Spielen
+* [Zelda TotK Fairy Fountains](https://www.nintendolife.com/guides/zelda-tears-of-the-kingdom-all-great-fairy-fountain-locations-how-to-unlock) - Eine Erklärung zu den Fairy Fountains in Tears of the Kingdom und wie man sie freischaltet
+
 ## 📺 Medien
 
 * [WDR Lokalzeit](https://www1.wdr.de/lokalzeit/fernsehen/index.html) - Die WDR Lokalzeit
@@ -66,6 +72,25 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 ## 👨🏼‍🍳 Kochen
 
 ## 💾 IT
+
+* [Python Course](https://python-course.eu/) - Onlinekurs für Python
+* [Logging mit Log4j](https://www.torsten-horn.de/techdocs/java-log4j.htm) - Webseite die das Logging mit Log4j erklärt
+* [Removing Disk From LVM](https://www.linuxquestions.org/questions/linux-newbie-8/removing-physical-disk-from-lvm-via-pvmove-707477/) - Eine Erklärung wie man eine physische Disk aus einem LVM entfernen kann
+* [Split Up a Fusioon Drive](https://www.macworld.com/article/219800/how-to-split-up-a-fusion-drive.html) - Ein Howto um ein Fusion-Drive (Apple Macos) aufzulösen
+* [Regex 101](https://regex101.com/) - Erklärungen und Online-Tester für Regular Expressions
+* [Obsidian Formatting Syntax](https://help.obsidian.md/syntax) - Die Markdown-Syntax für Obsidian
+* [Discord Formatting Syntax](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline) - Die Markdown-Syntax für Discord
+* [OPNsense](https://opnsense.org/) - Eine Open Source Firewall-Lösung
+* [Paperless-ngx](https://docs.paperless-ngx.com/) - Ein Open Source Document Management System
+* [AtlantaFX](https://github.com/mkpaz/atlantafx) - Die Github-Seite für AtlantaFX, eine Kollektion von JavaFX-Themes
+* [Timeline With LaTeX](https://stackoverflow.com/questions/217834/how-to-create-a-timeline-with-latex) - Stack Overflow Seite zu Timelines mit LaTeX
+### 🍍 Pineapple-Project
+* [Pineapple Project Github](https://github.com/spehle/pineapple-project) - Die Github-Seite für das Pineapple-Project
+* [Pineapple Project Confluence](https://pineapple-project.atlassian.net/wiki/spaces/PINE/overview) - Die Confluence-Seite für das Pineapple-Project
+* [Pineapple Project Kanban](https://pineapple-project.atlassian.net/jira/software/projects/PINE/boards/1) - Das Kanban-Board für das Pineapple-Project
+### 🚩 Elastic Habbits
+* [Elastic Habbits Bitbucket](https://bitbucket.org/elastic-habits/elastic-habits-app/src/main/) - Das Elastic Habbits Bitbucket-Repository
+* [Elastic Habbits Agile Board](https://elastic-habits.atlassian.net/jira/software/projects/EH/boards/1) - Das Elastic Habbits Agile Board
 
 ## 🧑🏼‍💻 Entwicklung
 
