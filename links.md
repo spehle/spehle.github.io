@@ -23,6 +23,10 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Monad//MAP](https://monad-map.fatman.dev/) - Cyberpunk-Style Karten aus OpenMap-Daten erzeugen
 * [100 Strange But Usefull Magic Items](http://www.sahuntbooks.com/blog/d100-wondrous-magic-items-for-dd-5e) - 100 Seltsame aber durchaus sinnvolle magische Gegenstände für D&D 5e
 
+## 🎴 Kartenspiele
+
+* [Arkham Horror Investigators](https://atlasofarkham.wordpress.com/the-rolodex-introduction/rolodex/core-set-investigators/) - Eintrag mit Erklärungen zu den Core-Investigatoren des Arkham Horror LCG
+
 ## 🤖 Webcomics, Manga & Anime
 
 * [Questionable Content](https://www.questionablecontent.net) - Ein Webcomic über eine Gruppe von Menschen in einer alternativen Zeitlinie mit antropomorphen Robotern und künstlicher Intelligenz
@@ -30,6 +34,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Proxer](https://proxer.me) - Eine Webseite über Anime und Manga
 * [ZONE-SAMA's Movies](https://zone-sama.newgrounds.com/movies/) - Ecchi & Hentai
 * [Nana to Kaoru Recommendations](https://www.anime-planet.com/manga/nana-to-kaoru/recommendations) - Eine Liste von Mangas die dem Manga "Nana & Kaoru" ähneln.
+* [Jakub Rozalski Art](https://www.jrozalski.com/) - Bilder von Jakub Rozalski
 
 ## 🧶 Stricken & Häkeln
 
@@ -51,6 +56,12 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [V128 Github](https://github.com/V128Team/) - Github des V128, einem 128er Fork des Vice-Emulators, und geplant neuer Hardware
 * [Restore-Store](https://restore-store.de) - Hardware-Store für Retro-Computer
 * [r/ROMs Megathread](https://r-roms.github.io/) - Wissenssammlung für das ROMs-Subreddit
+* [Add Kodi to RetroPie Menu](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/) - Englischer Artikel wie man Kodi zu einem RetroPie Menü hinzufügt
+* [Wikieintrag Cue-Sheet](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/] - Eintrag im Emulationwiki zu CueSheets die für manche Spiele z.B. auf der PS1 benötigt werden
+
+## 📺 Medien
+
+* [WDR Lokalzeit](https://www1.wdr.de/lokalzeit/fernsehen/index.html) - Die WDR Lokalzeit
 
 ## 👨🏼‍🍳 Kochen
 
@@ -59,3 +70,17 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 ## 🧑🏼‍💻 Entwicklung
 
 ## 🍎🍐 Verschiedenes
+
+* [9GAG](https://9gag.com) - Humor und Memes
+* [DropScan](https://secure.dropscan.de/mailings) - Brief-Scan und Digitalisierungsservice
+* [Recht Dortmund](https://www.recht-dortmund.de/) - Rechtsanwaltskanzlei Schillberg & Overkamp
+
+## 🍕 Essen & Rezepte
+
+* [Fuli-Express](https://www.fuli-express.de/index.php?cat=Speisekarte) - Chinesischer Lieferdienst in Unna
+* [Hafer-Kartoffel-Brot](https://www.chefkoch.de/rezepte/1467981251640120/Hafer-Kartoffel-Brot.html) - Chefkoch-Rezept eines Hafer-Kartoffel-Brotes
+* [Haferflocken-Brot](https://slowcooker.de/wohin-mit-all-dem-mehl-einfaches-haferflockenbrot/) - Rezept für ein Haferflocken-Brot
+* [Italienischer Pizzazeig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html) - Chefkoch-Rezept eines Pizzateiges
+* [Spaghetti Carbonara](https://www.chefkoch.de/rezepte/3716921562602313/Spaghetti-Carbonara.html) - Authentisches Rezept für Spaghetti Carbonara auf Chefkoch
+* [Dicke Bohnen-Eintopf](https://www.chefkoch.de/rezepte/2258371361219791/Dicke-Bohnen-Eintopf.html) - Chefkoch-Rezept für einen Dicke Bohnen-Eintopf
+* [Knusper-Rosenkohl](https://www.waz.de/ratgeber-wissen/kochen-rezepte/article407661895/rezept-knusper-rosenkohl.html) - Rezept für Knusper-Rosenkohl "Knofi-Panko-Parmesan"
