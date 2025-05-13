@@ -6,6 +6,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 * [AideDD](https://www.aidedd.org/en/) - Eine französische Seite (mit englischer Übersetzung) mit D&D Charaktergenerator und Zaubern, Feats, etc.
 * [Dungeons and Dragons 5th Edition 2024 Character Builder](https://birddie721.github.io/5e2024Builder/) Ein weiterer Character Builder für D&D 2024. Nur für Level 1 Charaktere, keine Zauberauswahl oder Feats. Sehr rudimentär.
+* [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page) - Umfangreiches Wiki zu den Forgotten Realms
 * [Fake Name Generator](https://de.fakenamegenerator.com/) - Ein umfangreicher Fake-Name-Generator für realistische Namen und Adressen, in verschiedenen Ländern
 * [RPGenerator](https://rpgenerator.net) - Ein weiterer Name-Generator, für Shadowrun und Das schwarze Auge
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Noch ein Name-Generator für zig verschiedene Anlässe
@@ -58,7 +59,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Restore-Store](https://restore-store.de) - Hardware-Store für Retro-Computer
 * [r/ROMs Megathread](https://r-roms.github.io/) - Wissenssammlung für das ROMs-Subreddit
 * [Add Kodi to RetroPie Menu](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/) - Englischer Artikel wie man Kodi zu einem RetroPie Menü hinzufügt
-* [Wikieintrag Cue-Sheet](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/] - Eintrag im Emulationwiki zu CueSheets die für manche Spiele z.B. auf der PS1 benötigt werden
+* [Wikieintrag Cue-Sheet](https://www.raspberrypi-spy.co.uk/2022/05/add-kodi-to-retropie-menu/) - Eintrag im Emulationwiki zu CueSheets die für manche Spiele z.B. auf der PS1 benötigt werden
 
 ## 🚀 Computer- & Konsolenspiele
 
