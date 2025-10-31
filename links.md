@@ -38,13 +38,14 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Nana to Kaoru Recommendations](https://www.anime-planet.com/manga/nana-to-kaoru/recommendations) - Eine Liste von Mangas die dem Manga "Nana & Kaoru" ähneln.
 * [Jakub Rozalski Art](https://www.jrozalski.com/) - Bilder von Jakub Rozalski
 
-## 🧶 Stricken & Häkeln
+## 🧶 Stricken, Häkeln & Nähen
 
 * [Dreieckstuch mit Stäbchen häkeln](https://lisibloggt.com/2018/02/21/anleitung-einfaches-dreiecks-tuch-mit-staebchen-haekeln/) - Häkelanleitung für ein einfaches Dreieckstuch mit Stäbchen
 * [Kreise häkeln in Spiralrunden](https://ribbelmonster.de/kreise-haekeln-in-spiralrunden/) - Kreise häkeln in Spiralrunden
 * [Spültücher stricken](https://www.smarticular.net/spueltuch-stricken-wiederverwendbar-plastikfrei/) - Spültücher einfach selbst stricken - wiederverwendbar und plastikfrei
 * [Dragon Wing Cowl](https://www.jessieathome.com/knit-dragon-wing-cowl/) - Stunning Jacob’s Ladder Knit Pattern, Make the Dragon Wing Cowl
 * [Seelenwärmer im großen Perlmuster](https://stricken-haekeln.de/seelenwaermer-im-grossen-perlmuster/) - Seelenwärmer im großen Perlmuster
+* [Avalon-Kilt Anleitung](https://naeherin-von-avalon.jimdofree.com/2018/05/19/avalon-kilt-anleitung/) - Avalon-Kilt Nähanleitung
 
 ## 🧱 Klemmbausteine
 
@@ -72,6 +73,14 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 ## 👨🏼‍🍳 Kochen
 
+* [Fuli-Express](https://www.fuli-express.de/index.php?cat=Speisekarte) - Chinesischer Lieferdienst in Unna
+* [Hafer-Kartoffel-Brot](https://www.chefkoch.de/rezepte/1467981251640120/Hafer-Kartoffel-Brot.html) - Chefkoch-Rezept eines Hafer-Kartoffel-Brotes
+* [Haferflocken-Brot](https://slowcooker.de/wohin-mit-all-dem-mehl-einfaches-haferflockenbrot/) - Rezept für ein Haferflocken-Brot
+* [Italienischer Pizzazeig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html) - Chefkoch-Rezept eines Pizzateiges
+* [Spaghetti Carbonara](https://www.chefkoch.de/rezepte/3716921562602313/Spaghetti-Carbonara.html) - Authentisches Rezept für Spaghetti Carbonara auf Chefkoch
+* [Dicke Bohnen-Eintopf](https://www.chefkoch.de/rezepte/2258371361219791/Dicke-Bohnen-Eintopf.html) - Chefkoch-Rezept für einen Dicke Bohnen-Eintopf
+* [Knusper-Rosenkohl](https://www.waz.de/ratgeber-wissen/kochen-rezepte/article407661895/rezept-knusper-rosenkohl.html) - Rezept für Knusper-Rosenkohl "Knofi-Panko-Parmesan"
+
 ## 💾 IT
 
 * [Python Course](https://python-course.eu/) - Onlinekurs für Python
@@ -85,6 +94,9 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Paperless-ngx](https://docs.paperless-ngx.com/) - Ein Open Source Document Management System
 * [AtlantaFX](https://github.com/mkpaz/atlantafx) - Die Github-Seite für AtlantaFX, eine Kollektion von JavaFX-Themes
 * [Timeline With LaTeX](https://stackoverflow.com/questions/217834/how-to-create-a-timeline-with-latex) - Stack Overflow Seite zu Timelines mit LaTeX
+
+## 🧑🏼‍💻 Entwicklung
+
 ### 🍍 Pineapple-Project
 * [Pineapple Project Github](https://github.com/spehle/pineapple-project) - Die Github-Seite für das Pineapple-Project
 * [Pineapple Project Confluence](https://pineapple-project.atlassian.net/wiki/spaces/PINE/overview) - Die Confluence-Seite für das Pineapple-Project
@@ -93,20 +105,10 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Elastic Habbits Bitbucket](https://bitbucket.org/elastic-habits/elastic-habits-app/src/main/) - Das Elastic Habbits Bitbucket-Repository
 * [Elastic Habbits Agile Board](https://elastic-habits.atlassian.net/jira/software/projects/EH/boards/1) - Das Elastic Habbits Agile Board
 
-## 🧑🏼‍💻 Entwicklung
-
 ## 🍎🍐 Verschiedenes
 
 * [9GAG](https://9gag.com) - Humor und Memes
 * [DropScan](https://secure.dropscan.de/mailings) - Brief-Scan und Digitalisierungsservice
 * [Recht Dortmund](https://www.recht-dortmund.de/) - Rechtsanwaltskanzlei Schillberg & Overkamp
 
-## 🍕 Essen & Rezepte
 
-* [Fuli-Express](https://www.fuli-express.de/index.php?cat=Speisekarte) - Chinesischer Lieferdienst in Unna
-* [Hafer-Kartoffel-Brot](https://www.chefkoch.de/rezepte/1467981251640120/Hafer-Kartoffel-Brot.html) - Chefkoch-Rezept eines Hafer-Kartoffel-Brotes
-* [Haferflocken-Brot](https://slowcooker.de/wohin-mit-all-dem-mehl-einfaches-haferflockenbrot/) - Rezept für ein Haferflocken-Brot
-* [Italienischer Pizzazeig](https://www.chefkoch.de/rezepte/716331174378295/Italienischer-Pizzateig.html) - Chefkoch-Rezept eines Pizzateiges
-* [Spaghetti Carbonara](https://www.chefkoch.de/rezepte/3716921562602313/Spaghetti-Carbonara.html) - Authentisches Rezept für Spaghetti Carbonara auf Chefkoch
-* [Dicke Bohnen-Eintopf](https://www.chefkoch.de/rezepte/2258371361219791/Dicke-Bohnen-Eintopf.html) - Chefkoch-Rezept für einen Dicke Bohnen-Eintopf
-* [Knusper-Rosenkohl](https://www.waz.de/ratgeber-wissen/kochen-rezepte/article407661895/rezept-knusper-rosenkohl.html) - Rezept für Knusper-Rosenkohl "Knofi-Panko-Parmesan"
