@@ -24,6 +24,7 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [Monad//MAP](https://monad-map.fatman.dev/) - Cyberpunk-Style Karten aus OpenMap-Daten erzeugen
 * [100 Strange But Usefull Magic Items](http://www.sahuntbooks.com/blog/d100-wondrous-magic-items-for-dd-5e) - 100 Seltsame aber durchaus sinnvolle magische Gegenstände für D&D 5e
 * [RPGVanWinkle Etsy-Shop](https://www.etsy.com/shop/rpgvanwinkle) - RPGVanWinkle Etsy-Sop für TTRPG Downloads
+* [Dolchherz](https://www.dolchherz.de) - Deutsche Daggerheart Fanseite
 
 ## 🎴 Kartenspiele
 
