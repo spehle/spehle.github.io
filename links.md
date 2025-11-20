@@ -28,8 +28,8 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 
 ## 🎲 Brettspiele
 
-* [Zaibatsu Speedrunner](https://zaibatsugame.blogspot.com/p/zaibatsu-speedrunners.html) - Cyberpunkiges Brettspiel zum selbst ausdrucken
-* [Zaibatsu Speedrunner for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=3604187901) - Zaibatsu Speedrunner für Tabletop Simulator
+* [Zaibatsu Speedrunners](https://zaibatsugame.blogspot.com/p/zaibatsu-speedrunners.html) - Cyberpunkiges Brettspiel zum selbst ausdrucken
+* [Zaibatsu Speedrunners for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=3604187901) - Zaibatsu Speedrunners für Tabletop Simulator
   
 ## 🎴 Kartenspiele
 
