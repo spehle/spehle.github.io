@@ -26,6 +26,10 @@ Diese Seite beinhaltet meine systemübergreifenden Favoriten. Ich möchte mich n
 * [RPGVanWinkle Etsy-Shop](https://www.etsy.com/shop/rpgvanwinkle) - RPGVanWinkle Etsy-Sop für TTRPG Downloads
 * [Dolchherz](https://www.dolchherz.de) - Deutsche Daggerheart Fanseite
 
+## 🎲 Brettspiele
+
+* [Zaibatsu Speedrunner](https://zaibatsugame.blogspot.com/p/zaibatsu-speedrunners.html) - Cyberpunkiges Brettspiel zum selbst ausdrucken
+  
 ## 🎴 Kartenspiele
 
 * [Arkham Horror Investigators](https://atlasofarkham.wordpress.com/the-rolodex-introduction/rolodex/core-set-investigators/) - Eintrag mit Erklärungen zu den Core-Investigatoren des Arkham Horror LCG
